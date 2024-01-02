@@ -1,6 +1,5 @@
 package com.example.kafkaexampleapp.configuration;
 
-
 import com.example.kafkaexampleapp.model.KafkaMessage;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
